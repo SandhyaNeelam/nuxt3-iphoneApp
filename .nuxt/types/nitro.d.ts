@@ -4,6 +4,7 @@ declare module 'nitropack' {
   interface InternalApi {
     '/api/iphones': Awaited<ReturnType<typeof import('../../server/api/iphones').default>>
     '/iphones': Awaited<ReturnType<typeof import('../../server/routes/iphones').default>>
+    '/__nuxt_error': Awaited<ReturnType<typeof import('../../node_modules/nuxt/dist/core/runtime/nitro/renderer').default>>
   }
 }
 declare global {
