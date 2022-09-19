@@ -1,8 +1,9 @@
 <template>
   <main class="user-layout bg-gray-100">
     <article class="sidebar">
-      <p>Dashboard</p>
-      <p>Settings</p>
+      <p>Name: IphoneUser</p>
+      <p>Email: eve.holt@reqres.in</p>
+      <p>Password: cityslicka</p>
     </article>
   </main>
 
