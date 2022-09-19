@@ -1,0 +1,1 @@
+import{a,o as t,b as n,e,J as r,F as l}from"./entry.5f6861af.js";const o={},c=e("main",{class:"user-layout bg-gray-100"},[e("article",{class:"sidebar"},[e("p",null,"Dashboard"),e("p",null,"Settings")])],-1);function _(s,d){return t(),n(l,null,[c,e("section",null,[r(s.$slots,"default")])],64)}const u=a(o,[["render",_]]);export{u as default};

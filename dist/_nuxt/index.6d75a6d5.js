@@ -1,0 +1,1 @@
+import{o as t,b as o,e}from"./entry.5f6861af.js";const s={class:"flex"},c=e("div",{class:"m-auto mt-52"},[e("h1",{class:"text-6xl"},"Welcome to Iphone Store")],-1),_=e("br",null,null,-1),a=[c,_],i={__name:"index",setup(n){return(l,r)=>(t(),o("div",s,a))}};export{i as default};
