@@ -87,6 +87,6 @@ async function onSubmit() {
 
   navigateTo("/");
 
-  console.log(data.value, error.value.data);
+  // console.log(data.value, error.value.data);
 }
 </script>

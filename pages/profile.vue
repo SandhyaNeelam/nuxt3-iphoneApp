@@ -3,6 +3,8 @@
     <p>Welcome to profile</p>
     <slot></slot>
   </div>
+
+  <!-- <NuxtLink to="/">Home</NuxtLink> -->
 </template>
 
 <script>
